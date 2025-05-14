@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/dogeplusplus-bio-agents-mcp-badge.png)](https://mseep.ai/app/dogeplusplus-bio-agents-mcp)
+
 # Bio-Agents MCP
 
 A collection of microservices and clients for natural language interaction with biological databases.
